@@ -4,7 +4,7 @@ const express = require('express');
 function startBot() {
   const bot = mineflayer.createBot({
     host: 'SurvivalSMP104.aternos.me',  // change to your server IP
-    port: 25565,
+    port: 29748,
     username: 'MyBot'
   });
 
